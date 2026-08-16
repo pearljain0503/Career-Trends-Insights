@@ -1,0 +1,121 @@
+Skill Name,Category
+python,programming
+java,programming
+javascript,programming
+c++,programming
+c#,programming
+ruby,programming
+php,programming
+go,programming
+rust,programming
+typescript,programming
+kotlin,programming
+swift,programming
+scala,programming
+perl,programming
+shell scripting,programming
+r,programming
+html,web development
+css,web development
+react,web development
+vue.js,web development
+angular,web development
+node.js,web development
+django,web development
+flask,web development
+rest api,web development
+graphql,web development
+responsive design,web development
+web accessibility,web development
+seo,web development
+android,mobile development
+ios,mobile development
+react native,mobile development
+flutter,mobile development
+mobile ui/ux,mobile development
+mobile security,mobile development
+app testing,mobile development
+aws,cloud & devops
+azure,cloud & devops
+gcp,cloud & devops
+docker,cloud & devops
+kubernetes,cloud & devops
+ci/cd,cloud & devops
+jenkins,cloud & devops
+terraform,cloud & devops
+cloudformation,cloud & devops
+ansible,cloud & devops
+microservices,cloud & devops
+serverless,cloud & devops
+machine learning,data science & analytics
+deep learning,data science & analytics
+tensorflow,data science & analytics
+pytorch,data science & analytics
+scikit-learn,data science & analytics
+data analysis,data science & analytics
+statistics,data science & analytics
+pandas,data science & analytics
+numpy,data science & analytics
+sql,data science & analytics
+tableau,data science & analytics
+power bi,data science & analytics
+jupyter,data science & analytics
+python,data science & analytics
+r,data science & analytics
+sql,database
+mysql,database
+postgresql,database
+mongodb,database
+oracle,database
+cassandra,database
+redis,database
+database design,database
+query optimization,database
+nosql,database
+leadership,soft skills
+communication,soft skills
+problem solving,soft skills
+critical thinking,soft skills
+teamwork,soft skills
+time management,soft skills
+adaptability,soft skills
+creativity,soft skills
+negotiation,soft skills
+mentoring,soft skills
+project management,soft skills
+strategic planning,soft skills
+decision making,soft skills
+financial analysis,business
+business development,business
+market research,business
+strategic planning,business
+business acumen,business
+sales,business
+marketing,business
+budget management,business
+p&l management,business
+user experience,design
+user interface,design
+graphic design,design
+web design,design
+adobe creative suite,design
+figma,design
+wireframing,design
+prototyping,design
+penetration testing,cybersecurity
+network security,cybersecurity
+encryption,cybersecurity
+firewalls,cybersecurity
+security protocols,cybersecurity
+risk assessment,cybersecurity
+compliance,cybersecurity
+security architecture,cybersecurity
+project management,professional
+agile,professional
+scrum,professional
+kanban,professional
+jira,professional
+confluence,professional
+documentation,professional
+technical writing,professional
+presentation skills,professional
