@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="Assets/career-intelligence-logo.png" width="140" alt="Career Intelligence logo"/>
+  <img src="Assets/POWERBI_LOGO.png" width="140" alt="Career Intelligence logo"/>
 </p>
 
 ---
